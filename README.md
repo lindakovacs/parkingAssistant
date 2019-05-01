@@ -6,6 +6,10 @@ DevPost project details: https://devpost.com/software/parking-assistant
 
 Medium: https://medium.com/@hackupstate/hack-upstate-xiii-the-results-are-in-28c801576637
 
+        https://coveycs.com/hackathon-xiii-aftermath/?fbclid=IwAR0D0QSAO83ad2KS0XOWfqI9pFioRPfA2BMrJTzZU4oWmkUj-2u2tvjIrNI
+
+        https://medium.com/city-as-a-service/hack-upstate-debrief-24837aa2f77a
+
 Demo: https://snack.expo.io/@lindakovacs/Z2l0aH
 
 Pictures: https://www.facebook.com/pg/hackupstate/photos/?tab=album&album_id=1711326969000330
